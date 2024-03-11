@@ -1,0 +1,17 @@
+.social_links {
+    text-align: center;
+}
+
+.social_links li {
+    display: inline-block;
+    text-align: center;
+}
+
+.pro_pic {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 160px;
+    left: 90px;
+}
